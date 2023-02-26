@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 # locale                   : "en-US"
-title                    : "Robotics Lab URJC"
+title                    : "Blog Robótica"
 title_separator          : "-"
 subtitle                 : Programming Robot Intelligence
 name                     : "JdRobot"
