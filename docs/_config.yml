@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 # locale                   : "en-US"
-title                    : "Blog Robótica"
+title                    : "Visiñon Robótica"
 title_separator          : "-"
 subtitle                 : Programming Robot Intelligence
 name                     : "JdRobot"
-description              : "Programming Robot Intelligence"
+description              : "Máster Universitario en Visión Artificial. 2022-2023."
 url                      : https://roboticslaburjc.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/logo.png"
+logo                     : #"assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francisco Vázquez"
-  avatar           : "assets/images/avatar.JPG"
-  bio              : "Robotic Vision's blog"
+  name             : "Alejandra Abalo"
+  avatar           : #"assets/images/avatar.JPG"
+  bio              : "Blog de la asignatura Visión Robótica"
   location         : "Madrid"
-  email            : "fv8vazquez@gmail.com"
+  email            : "a.abalo.2018@alunos.urjc.es"
   links:
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
@@ -123,27 +123,27 @@ author:
      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/xfranv8"
+      icon: #"fab fa-fw fa-github"
+      url: #"https://github.com/xfranv8"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/franvazquez8/"
+      icon: #"fab fa-fw fa-linkedin"
+      url: #"https://www.linkedin.com/in/franvazquez8/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/roboticslaburjc"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RoboticsLabURJC"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/roboticslaburjc"
+    - label: #"GitHub"
+      icon: #"fab fa-fw fa-github"
+      url: #"https://github.com/RoboticsLabURJC"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
     #  url:
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ"
+    - label: #"Youtube"
+      icon: #"fab fa-fw fa-youtube"
+      url: #"https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ"
 
 
 # Reading Files
